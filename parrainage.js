@@ -2,9 +2,9 @@ const filleuls = [
     { name: "Filleul 1", photo: "image/1.jpg" },
     { name: "Filleul 2", photo: "image/2.webp" },
     { name: "Filleul 3", photo: "image/3.jpg" },
-    { name: "Filleul 1", photo: "image/4 (1).jpg" },
-    { name: "Filleul 2", photo: "image/4 (2).jpg" },
-    { name: "Filleul 3", photo: "image/4 (3).jpg" }
+    { name: "Filleul 4", photo: "image/4 (1).jpg" },
+    { name: "Filleul 5", photo: "image/4 (2).jpg" },
+    { name: "Filleul 6", photo: "image/4 (3).jpg" }
 ];
 const parrains = [
     { name: "Parrain 1", photo: "image/4 (1).jpg" },
