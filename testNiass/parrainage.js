@@ -70,6 +70,6 @@ function assignParrain() {
 
             // Mark the filleul as assigned
             assignedFilleuls.add(filleulIndex);
-        }, 2000); // Delay to allow for the fade-out effect
+        }, 3000); // Delay to allow for the fade-out effect
     }, 2000); // Duration of the spin animation
 }
